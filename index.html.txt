@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Fiksuin Autokorjaamo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Надёжный автосервис в Вантаа. Scandic Customs Oy">
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f3f3f3;
+      color: #333;
+    }
+    header {
+      background-color: #004aad;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Fiksuin Autokorjaamo</h1>
+    <p>Scandic Customs Oy – качественный автосервис в Вантаа</p>
+  </header>
+
+  <section>
+    <h2>Наши услуги</h2>
+    <ul>
+      <li>Обслуживание и ремонт автомобилей</li>
+      <li>Диагностика и техосмотр</li>
+      <li>Шиномонтаж и замена масел</li>
+      <li>Кузовной ремонт и покраска</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Контакты</h2>
+    <p>📍 Адрес: Вантаа, Мартинлааксо</p>
+    <p>📞 Телефон: +358 40 123 4567</p>
+    <p>📧 Email: info@fiksuin.fi</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Scandic Customs Oy</p>
+  </footer>
+</body>
+</html>
